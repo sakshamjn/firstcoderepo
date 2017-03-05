@@ -1,3 +1,2 @@
 infogrephic
-git init
-#
+new changes
